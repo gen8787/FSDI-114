@@ -37,3 +37,11 @@
    Enqueue  
    Dequeue  
    Return the size of the queue  
+
+
+## Competency Report:
+
+#### [Linked Lists](linked_list.py):
+
+- [x] Singly linked list implementation
+- [x] Doubly linked list implementation
