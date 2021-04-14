@@ -23,17 +23,17 @@
 
 - [x] Create a class named "Stack" that allows you to:
 
-...Check if it is empty
-...Push a new item
-...Pop an item
-...Peek at the top item
-...Return the size
+   Check if it is empty
+   Push a new item
+   Pop an item
+   Peek at the top item
+   Return the size
 
-#### [Queue](queuq.py):
+#### [Queue](queue.py):
 
 - [x] Create a class named "Queue" that allows you to:
 
-...Check if the queue is empty
-...Enqueue
-...Dequeue
-...Return the size of the queue
+   Check if the queue is empty
+   Enqueue
+   Dequeue
+   Return the size of the queue
