@@ -16,3 +16,24 @@
 
 #### [product_list](product_list.py):
 - [x] Given a list of integers, write a function that will return a list, in which for each index the element will be the product of all the integers except for the element at that index. For example, an input of [1, 2, 3, 4] would return [24, 12, 8, 6] by performing [2x3x4, 1x3x4, 1x2x4, 1x2x3]. You cannot use division in your answer! Meaning you can't simply multiply all the numbers and then divide by each element for each index!
+
+## Assignment 3:
+
+#### [Stack](stack.py):
+
+- [x] Create a class named "Stack" that allows you to:
+
+...Check if it is empty
+...Push a new item
+...Pop an item
+...Peek at the top item
+...Return the size
+
+#### [Queue](queuq.py):
+
+- [x] Create a class named "Queue" that allows you to:
+
+...Check if the queue is empty
+...Enqueue
+...Dequeue
+...Return the size of the queue
